@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 8.0.0.0 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE>フロストコラム</TITLE>
+</HEAD>
+<BODY bgcolor="#b0ff71">
+<P><FONT size="-1">なんかいろんな話。後世に伝えていきたい（大げさ）</FONT></P>
+<HR>
+<BR>
+<FONT size="+3">How to Listen to 東方旧作曲</FONT>
+<DIV align="right"><FONT size="-1">2014/9/14 作成<BR>
+2014/9/16 更新<BR>
+</FONT></DIV>
+<FONT size="-1">とりあえず東方旧作の楽曲を聴いてみたい！ でもやり方がわからない！ という方に贈る、東方旧作曲を聞く手順の紹介です。<BR>
+<S>ようつべとかで聴くのが一番手軽げっふぉごっふぉ</S><BR>
+</FONT><BR>
+<BR>
+<B><FONT size="+2">・幺樂団の歴史 （ようがくだん の れきし）を購入する </FONT></B><FONT size="-1"><BR>
+<BR>
+東方旧作の楽曲を再録したCD群、それが「</FONT><FONT size="-1" color="#ff0000"><FONT size="-1" color="#ff0000"><B>幺樂団の歴史　～ Akyu's Untouched Score</B></FONT></FONT><FONT size="-1">」です。<BR>
+幺樂団の歴史1が<B>1,000円+税</B>、幺樂団の歴史2～5が<B>700円+税</B> で、合計3,800円+税 となっています。<BR>
+適正価格で販売しているのが、とらのあな、メロンブックス、あきばおー、まんだらけ、Comic ZINなどです。<BR>
+<B>Amazonは高いです！</B>　注意しましょう。(2014年9月現在) <BR>
+また、コミックマーケット86の時のようにイベント価格（全CD 500円）で頒布される場合もあります。<BR>
+<BR>
+幺樂団の歴史には、東方怪奇談Music Roomに収録された楽曲（に少し手直しが加わったもの）が再録されています。<BR>
+幺樂団の歴史1には 東方幻想郷 の楽曲（2枚組）+α、 <BR>
+幺樂団の歴史2には 東方怪綺談 の楽曲、<BR>
+幺樂団の歴史3には 東方封魔録 の楽曲、<BR>
+幺樂団の歴史4には 東方夢時空 の楽曲、<BR>
+幺樂団の歴史5には 東方靈異伝 の楽曲+α<BR>
+が収録されております。順番に買う必要は全くないので、自由な順番でお買い求めください。<BR>
+<BR>
+<BR>
+</FONT><B><FONT size="+2">・PMDデータを専用プレイヤーで再生する </FONT></B><FONT size="-1"><BR>
+<BR>
+東方旧作の曲データは、Win版と違いWAVE形式<B>ではありません。</B><BR>
+（靈異伝を除いた）東方旧作楽曲の曲データは、<B>.M</B>という拡張子のファイルです。これを</FONT><FONT size="-1" color="#ff0000"><B>PMDデータ</B></FONT><FONT size="-1">といいます。<BR>
+PMDデータを再生するには、専用の再生ソフトが必要です。<BR>
+「</FONT><FONT size="-1" color="#ff0000"><FONT size="-1" color="#ff0000"><B>FMPMD</B></FONT></FONT><FONT size="-1">」というソフトが主流で、これはWindows上で動作します（筆者はWindows7上で動作を確認しました）。<BR>
+<BR>
+PMDデータは、上海アリス幻樂団のHPの隠しページ「幻想懐古曲」からDLすることができます。<BR>
+　<A href="http://www16.big.or.jp/~zun/html/pmd.html">http://www16.big.or.jp/~zun/html/pmd.html</A><BR>
+<BR>
+また、「夜の鳩山を飛ぶ」の原曲は以下のリンクからDLできます。原曲はここでしか聴くことができません。<BR>
+　<A href="http://www16.big.or.jp/~zun/data/pmd/th98_00.lzh">http://www16.big.or.jp/~zun/data/pmd/th98_00.lzh</A><BR>
+<BR>
+FMPMDは、開発者のC60氏による「C60のページ」のページからDLすることができます。<BR>
+　<A href="http://c60.la.coocan.jp/">http://c60.la.coocan.jp/</A><BR>
+ここから「自作ソフトのDownLoad(Download Page)」に移動し、<BR>
+　DownLoad : WinFMP018.zip(44,316bytes)<BR>
+　DownLoad : PMDWin036.lzh(65,005bytes)<BR>
+　DownLoad : FMPMD031.lzh(220,858bytes)<BR>
+の3つをダウンロードして下さい（バージョンはアップデートされている場合があります）。<BR>
+<BR>
+これらのファイルを解凍し、フォルダの中身をすべて同一フォルダに移動することで、FMPMDはPMDデータを再生可能になります。　<BR>
+再生方法はまず、「FMPMD.exe」を起動します。「PPS」のチェックを外し、すべてのチェックが外れた状態にします。<BR>
+そこに、上海アリス幻樂団の隠しページからDLしたPMDデータをドラッグ＆ドロップするだけで曲が流れます。簡単ですね！<BR>
+<BR>
+<BR>
+しかしながら、PMDの指定するドラム音はちゃっちいです。そこで、他のドラム音に差し替えることができます。<BR>
+そのドラム音の一例が、以下のページからDLすることができます。<BR>
+<BR>
+MA-Internet Page　サウンド関係ソフトウェアダウンロード<BR>
+<A href="http://www.ylw.mmtr.or.jp/~hosino/ma-net/sound.htm">http://www.ylw.mmtr.or.jp/~hosino/ma-net/sound.htm</A><BR>
+<BR>
+このページの、「リズムライブラリ」の「FMPMD」というリンクから「ym2608rl_fmpmd.zip」をDLし、<BR>
+FMPMDのフォルダに近い適当なところに解凍してください。<BR>
+そして、FMPMD.exeを起動し、ﾌｧｲﾙ(F)→環境設定(E)→ﾃﾞｨﾚｸﾄﾘ→ﾘｽﾞﾑ音源waveﾃﾞｨﾚｸﾄﾘ の 参照(B)<BR>
+と選択し、先ほどのym2608rl_fmpmd.zipを解凍したフォルダを指定します。そして「OK」を押します。<BR>
+更に、最初の再生画面で「PPS」および「SSG+RHY」にチェックを入れます。<BR>
+あと2つのチェックはどちらでも大丈夫です。これで、ドラム音の差し替えは完了です。<BR>
+<BR>
+FMPMDには、各パートごとに再生するなど、様々な機能があります。詳しくはFMPMD031.lzh付属のFMPMD.txtをご覧下さい。<BR>
+</FONT><BR>
+<B><FONT size="+2">・靈異伝のMDRV2データをhootで再生する </FONT></B><FONT size="-1"><BR>
+<BR>
+靈異伝の音楽ファイルは、拡張子が<B>.MDT</B>である<B>MDRV2データ</B>です。<BR>
+これを再生するには、チップチューンのファイルをほとんど再生できる伝説のプレイヤー（それ　いいすぎ）、「<B>hoot</B>」が必要です。<BR>
+はっきり言って、MDRV2データを手に入れるのも、hootでMDRV2データを再生可能にするのも難題です。<BR>
+このようなものもある、ということだけ紹介しました。気になる方は各自で調べたり、筆者（あぶらあげ）に直接訊いたりしてみてください。<BR>
+そのうち追記で書くかもしれません。そのうち。<BR>
+<BR>
+</FONT><B><FONT size="+2">・東方旧作の体験版をダウンロードし、プレイする </FONT></B><FONT size="-1"><BR>
+<BR>
+東方旧作の体験版は、Amusement Makersの旧サイトにてダウンロードすることができます。<BR>
+<A href="http://www.kt.rim.or.jp/~aotaka/am/">http://www.kt.rim.or.jp/~aotaka/am/</A><BR>
+（ダウンロードしたファイルはWindows上では解凍しないことをおすすめします。）<BR>
+<BR>
+しかしながら、現在のWindowsではこれをプレイすることができません。<BR>
+NEC のPC-98 機や、それに相当するPCをお持ちであるならば、体験版をプレイすることができます。<BR>
+そうでないならば、「</FONT><FONT size="-1" color="#ff0000"><FONT size="-1" color="#ff0000"><B>Anex86</B></FONT></FONT><FONT size="-1">」や「</FONT><FONT size="-1" color="#ff0000"><FONT size="-1" color="#ff0000"><B>T98-Next</B></FONT></FONT><FONT size="-1">」などのエミュレータで動作することができます。<BR>
+（筆者はAnex86にて作業を行っております。PC-98壊れるのコワイ！）<BR>
+<BR>
+具体的なエミュレータの導入方法は省きますが、詳細で丁寧な解説のあるホームページがありましたので、こちらにアクセスすることをおすすめ致します。<BR>
+【東方旧作】東方project旧作（体験版）セットアップ - OMOCHIゲームとか日記<BR>
+<A href="http://blog.goo.ne.jp/o_mo_chi_3/e/7bfd257c93d04318e8f55482f78c4a19">http://blog.goo.ne.jp/o_mo_chi_3/e/7bfd257c93d04318e8f55482f78c4a19</A><BR>
+（こっちも余力があったらそのうち詳しく書きます。そのうち。）<BR>
+<BR>
+<BR>
+</FONT><FONT size="+2">・最後に </FONT><FONT size="-1"><BR>
+PMDの作者であるKAJA 氏、FMPMD作者であるC60氏、上記サイトの作者の方々、<BR>
+そして上海アリス幻樂団のZUN氏にこの場を借りて感謝の意を表します。ありがとうございました。<BR>
+この記事を読んだ方が東方旧作楽曲に深く興味を持っていただければ幸いです。さらなる東方旧作界隈の発展を願います。<BR>
+<BR>
+<BR>
+<BR>
+この記事は、 2014/9/14 の 幺樂団カァニバル！5にてフリーペーパーとして頒布させていただいたものです。<BR>
+リンク切れがあるなど、現在の事実とは異なる場合がございます。<BR>
+記事にしたがった行動を取ることにより何らかの被害が起きましても、当方では一切責任を負いかねます。<BR>
+あと、楽曲を聴いても魅魔様の搾乳を見ることはできませんし、可能性空間移動船に乗って幻想郷に行くこともできません。ご了承ください。<BR>
+<BR>
+筆者：あぶらあげ（ここから先、34小節目。）　<BR>
+<BR>
+<FONT size="-1"><FONT size="-1"><FONT size="-1"><BR>
+<BR>
+</FONT></FONT><BR>
+</FONT></FONT>
+<HR>
+
+
+<P align="center"><A href="top.html">TOPへ</A></P>
+</BODY>
+</HTML>

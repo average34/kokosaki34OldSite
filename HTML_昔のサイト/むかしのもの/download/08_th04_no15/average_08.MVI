@@ -1,0 +1,776 @@
+'/ Mp20
+
+'@ 0
+'@ 31, 8, 1, 8, 1, 13,0, 6,3
+'@ 31, 8, 3, 8, 3, 30,0, 2,7
+'@ 31, 8, 3, 8, 3, 28,0, 1,7
+'@ 31, 0, 0, 9, 0,  0,0, 2,3
+'@ 3,6
+
+'@ 1
+'@ 31,18, 4, 5, 8, 30,0, 8,0
+'@ 31,12, 4, 5, 2, 50,0, 1,3
+'@ 31,12, 4, 5, 2, 20,0, 0,3
+'@ 31,17, 4, 6, 1,  0,0, 1,0
+'@ 2,7
+
+'@ 2
+'@ 31,12, 4, 6, 2, 40,1,12,3
+'@ 31,12, 4, 8, 3,  0,1, 4,7
+'@ 31,12, 4, 6, 2, 35,1,12,7
+'@ 31,12, 4, 8, 3,  0,1, 4,7
+'@ 4,6
+
+'@ 3
+'@ 31, 0, 8, 0, 0, 35,2,12,3
+'@ 31,10, 0, 6, 2,  0,1, 4,3
+'@ 31, 0, 8, 0, 0, 33,2,12,7
+'@ 31,10, 0, 6, 2,  0,1, 4,7
+'@ 4,7
+
+'@ 4
+'@ 31, 0, 0, 0, 0, 29,0, 1,0
+'@ 31,14, 3,15, 3,  0,0, 1,0
+'@ 31,14, 3,15, 3,  0,0, 1,0
+'@ 31,14, 3,15, 3,  0,0, 1,0
+'@ 5,7
+
+'@ 5
+'@ 31,  4, 2, 4, 2, 40,0,12,3
+'@ 31,12, 4, 6, 2,   0,0, 4,7
+'@ 31,  4, 2, 4, 2, 35,0, 6,7
+'@ 31,12, 4, 6, 2,   0,0, 2,3
+'@ 4,7
+
+'@ 6
+'@ 31, 0, 0, 2, 0, 30,3, 4,3
+'@ 31, 2, 0, 7, 3,  0,0, 4,3
+'@ 31, 0, 0, 2, 0, 31,3, 2,7
+'@ 31, 2, 0, 7, 3,  0,0, 4,7
+'@ 4,7
+
+'@ 7
+'@ 31, 0, 0, 0, 0, 29,0, 2,0
+'@ 31,14, 3,15, 3,  0,0, 8,0
+'@ 31,14, 3,15, 3,  0,0, 4,0
+'@ 31,14, 3,15, 3,  0,0, 4,0
+'@ 5,7
+
+'@ 10
+'@ 31, 2, 6, 8, 6, 29,0, 4,0
+'@ 31, 2, 6, 8, 6,  0,0, 4,4
+'@ 31, 0, 6, 8, 6,  0,0, 4,4
+'@ 31, 6, 6, 8, 6,  0,0, 2,4
+'@ 5,7
+
+'@ 15
+'@ 15, 0, 0, 2, 0, 30,3, 2,3
+'@ 15, 2, 0, 7, 3,  0,0, 4,3
+'@ 15, 0, 0, 2, 0, 31,3, 2,7
+'@ 15, 2, 0, 7, 3,  0,0, 4,7
+'@ 4,7
+
+'@ 16
+'@ 31, 0, 0, 0, 0, 17,0, 8,7
+'@ 31,16, 0, 8, 2,  0,0, 4,7
+'@ 31, 0, 0, 0, 0, 20,0, 4,3
+'@ 31,16, 0, 8, 2,  0,0, 2,3
+'@ 4,4
+
+'@ 19
+'@ 31, 0, 0, 0, 0, 27,0, 8,7
+'@ 31,16, 0, 8, 2,  0,0, 4,3
+'@ 31, 0, 0, 0, 0, 24,0, 8,7
+'@ 31,16, 0, 8, 2,  0,0, 4,3
+'@ 4,7
+
+
+'A T156u122@0 l8
+'A r2 L@0u118
+'A o3g+2a+4&a+b&
+'A b2>c+2
+'A <g+2a+4&a+b&
+'A b2>c+2
+'A <g+2a+4&a+b&
+'A b2>c+2
+'A <g+2a+4&a+b&
+'A b2>c+2
+'A <g+2a+4&a+b&
+'A b2>c+2
+'A <g+2a+4&a+b
+'A T152r2u122@10T148o3g+4T160a+4
+'A ba+g+f+4>d+<a+4
+'A b2&b4>c+d+
+'A c+4&c+<g+4&g+>c+4
+'A d+&d+16g+&g+16a+rd+g+a+
+'A ba+g+f+4g+d+r
+'A ba+g+f+4g+c+4
+'A d+c+<bg+4a+br
+'A ba+g+a+4b>c+d+
+'A <ba+g+f+4>d+<a+4
+'A b2&b4>c+d+
+'A c+4&c+<g+4&g+>c+4
+'A d+&d+16g+&g+16a+rd+g+a+
+'A ba+g+f+4g+d+r
+'A ba+g+f+4g+c+4
+'A d+c+<bg+4a+br16b16
+'A ba+g+a+4b>c+T156d+
+'A rgaba+&a+16b&b16>c+
+'A d&d16c+&c+16<bb2
+'A rgaba+&a+16>c+&c+16f+
+'A d1
+'A r<gaba+&a+16b&b16>c+
+'A d&d16c+&c+16<bf+&f+16e&e16d
+'A rgab>c+&c+16f+&f+16e
+'A d&d16c+&c+16<bb2
+'A r>gaba+&a+16b&b16>c+
+'A d&d16c+&c+16<bb2
+'A rgaba+&a+16>c+&c+16f+
+'A d1u127
+'A r<gaba+&a+16b&b16>c+
+'A d&d16c+&c+16<bf+&f+16e&e16d
+'A rgab>c+&c+16f+&f+16e
+'A d&d16c+&c+16<bb2
+'A r4u118@0
+'A o3g2a4&aa+&
+'A a+2>c2
+'A <g2a4&aa+&
+'A a+2>c2
+'A <g2a4&aa+&
+'A a+2>c2
+'A <g2a4&aa+&
+'A a+2>c2
+'A <g2a4&aa+&
+'A a+2>c2
+'A <g2a4&aa+
+
+'A r2T124r4@10T144o4f4u122T156
+'A rf+g+a+a&a16a+&a+16>c
+'A c+&c+16c&c16<a+a+2
+'A rf+g+a+a&a16>c&c16f
+'A c+1
+'A r<f+g+a+a&a16a+&a+16>c
+'A c+&c+16c&c16<a+f&f16d+&d+16c+
+'A rf+g+a+>c&c16f&f16d+
+'A c+&c+16c&c16<a+a+2
+'A r>f+g+a+a&a16a+&a+16>c
+'A c+&c+16c&c16<a+a+2
+'A rf+g+a+a&a16>c&c16f
+'A c+1
+'A r<f+g+a+a&a16a+&a+16>c
+'A c+&c+16c&c16<a+f&f16d+&d+16c+
+'A rf+g+a+>c&c16f&f16d+
+'A c+&c+16c&c16<a+a+2
+'A r<a+>cdc+&c+16d&d16e
+'A f&f16e&e16dd2
+'A r<a+>cdc+&c+16e&e16a
+'A f1
+'A r<a+>cdc+&c+16d&d16e
+'A f&f16e&e16d<a&a16g&g16f
+'A ra+>cde&e16a&a16g
+'A f&f16e&e16dd2
+'A ra+>cdc+&c+16d&d16e
+'A f&f16e&e16dd2
+'A r<a+>cdc+&c+16e&e16a
+'A f1
+'A r<a+>cdc+&c+16d&d16e
+'A f&f16e&e16d<a&a16g&g16f
+'A ra+>cde&e16a&a16g
+'A f&f16e&e16dd2
+
+'B u114@0 l8
+'B r2 L@0u114
+'B o3c+2d+4&d+e&
+'B e2f+2
+'B c+2d+4&d+e&
+'B e2f+2
+'B c+2d+4&d+e&
+'B e2f+2
+'B c+2d+4&d+e&
+'B e2f+2
+'B c+2d+4&d+e&
+'B e2f+2
+'B c+2d+4&d+e
+'B r2@10u116o3g+4a+4
+'B rr16ba+g+f+4>d+<a+16&
+'B a+&a+16b2&b4>c+16&
+'B c+16d+c+4&c+<g+4&g+>c+16&
+'B c+&c+16d+&d+16g+&g+16a+rd+g+16&
+'B g+16a+ba+g+f+4g+d+16&
+'B d+16rba+g+f+4g+c+16&
+'B c+&c+16d+c+<bg+4a+b16&
+'B b16rba+g+a+4b>c+16&
+'B c+16d+<ba+g+f+4>d+<a+16&
+'B a+&a+16b2&b4>c+16&
+'B c+16d+c+4&c+<g+4&g+>c+16&
+'B c+&c+16d+&d+16g+&g+16a+rd+g+16&
+'B g+16a+ba+g+f+4g+d+16&
+'B d+16rba+g+f+4g+c+16&
+'B c+&c+16d+c+<bg+4a+b16
+'B >d+c+<b>c+4d+4&
+'B d+r4u120
+'B r16gaba+&a+16b&
+'B b16>c+d&d16c+&c+16<bb4&
+'B b16&b&b16rgaba+&a+16>c+&
+'B c+16f+d1
+'B r<gaba+&a+16b&
+'B b16>c+d&d16c+&c+16<bf+&f+16e&
+'B e16drgab>c+&c+16f+&
+'B f+16ed&d16c+&c+16<br4r16u120
+'B rb>c+dc+&c+16d&d16e
+'B f+&f+16e&e16dd2
+'B r<b>c+dc+&c+16d&d16e
+'B f+1
+'B r<b>c+dc+&c+16d&d16e
+'B f+&f+16e&e16dd&d16c+&c+16<b
+'B rb>c+de&e16a+&a+16a+
+'B b&b16f+r16ed4e4
+
+'B r4@0u114
+'B o3c2d4&dd+&
+'B d+2f2
+'B c2d4&dd+&
+'B d+2f2
+'B c2d4&dd+&
+'B d+2f2
+'B c2d4&dd+&
+'B d+2f2
+'B c2d4&dd+&
+'B d+2f2
+'B c2d4&dd+
+'B r1@10u116
+
+'B r4r16o4f+g+a+a&a16a+&
+'B a+16>cc+&c+16c&c16<a+a+4&
+'B a+16&a+&a+16rf+g+a+a&a16>c&
+'B c16fc+1
+'B r<f+g+a+a&a16a+&
+'B a+16>cc+&c+16c&c16<a+f&f16d+&
+'B d+16c+
+'B rf+g+a+>c&c16f&
+'B f16d+c+&c+16c&c16<a+r4r16
+'B ra+>cc+c&c16c+&c+16d+
+'B f&f16d+&d+16c+c+2
+'B r<a+>cc+c&c16c+&c+16d+
+'B f1
+'B r<a+>cc+c&c16c+&c+16d+
+'B f&f16d+&d+16c+c+&c+16c&c16<a+
+'B ra+>cc+d+&d+16a&a16a
+'B a+&a+16fr16d+c+4d+4u120
+'B r4r16<a+>cdc+&c+16d&
+'B d16ef&f16e&e16dd4&
+'B d16&d&d16r<a+>cdc+&c+16e&
+'B e16af1
+'B r<a+>cdc+&c+16d&
+'B d16ef&f16e&e16d<a&a16g&
+'B g16fra+>cde&e16a&
+'B a16gf&f16e&e16dr4r16
+'B rdefe&e16f&f16g
+'B a&a16g&g16ff2
+'B rdefe&e16f&f16g
+'B a1
+'B rdefe&e16f&f16g
+'B a&a16g&g16ff&f16e&e16d
+'B rdefg&g16>c+&c+16c+
+'B d&d16<ar16gf4g4
+
+'C u120@4 l16
+'C r2L@4
+'C o4g+2a+4&a+8b8&
+'C b2>c+2
+'C <g+2a+4&a+8b8&
+'C b2>c+4.c+8_a+@2
+'C <bd+a+d+g+c+d+<g+>a+d+g+d+gd+<b8&
+'C bd+a+d+g+c+d+<g+>a+d+g+d+gc+d+<a+
+'C bd+a+d+g+c+d+<g+>a+d+g+d+gd+<b8&
+'C bd+a+d+g+c+d+g+a+d+g+d+gc+d+a
+'C o4bd+a+d+g+c+d+<g+>a+d+g+d+gd+<b8&
+'C bd+a+d+g+c+d+<g+>a+d+g+d+gc+d+<a+
+'C bd+a+d+g+c+d+<g+>a+d+g+d+gd+<b8
+'C r2@0((o3e4f+4))@19
+'C d+4d+4d+4d+4
+'C d+4d+4d+4d+4
+'C c+4c+4c+4c+4
+'C <b4b4>c+4c+4
+'C d+4d+4d+4d+4
+'C d+4d+4d+4d+4
+'C c+4c+4c+4c+4
+'C <b4b4>c+4c+4
+'C b>c+d+g+<b>c+d+g+<b>c+d+g+<b>c+d+g+
+'C <b>c+d+g+<b>c+d+g+<b>c+d+g+<b>c+d+g+
+'C <b>c+d+a+<b>c+d+a+<b>c+d+a+<b>c+d+a+
+'C <b>c+d+g+<b>c+d+g+<b>c+d+g+<b>c+d+g+
+'C <b>c+d+g+<b>c+d+g+<b>c+d+g+<b>c+d+g+
+'C <b>c+d+g+<b>c+d+g+<b>c+d+g+<b>c+d+g+
+'C <b>c+d+a+<b>c+d+a+<b>c+d+a+<b>c+d+a+
+'C <b>c+d+g+<b>c+d+g+ga+>d+<a+a+g+g8@16
+'C <g2a+2
+'C b4&b8>b>c+f+<b>e<b>dc+<bb
+'C r8<g4&g8a+4>c+4
+'C <b4&b8>b>c+f+<b>e<b>def+<b
+'C g2a+2
+'C b4&b8>b>c+f+<b>e<b>dc+<bb
+'C r8o3b8>c+8d8e8&ea+8&a+a+8
+'C b8&bf+8&f+e8dc+<b>dc+<f+ed
+'C g2a+2
+'C b4&b8>b>c+f+<b>e<b>dc+<bb
+'C r8<g4&g8a+4>c+4
+'C <b4&b8>b>c+f+<b>e<b>def+<b
+'C g2a+2
+'C b4&b8>b>c+f+<b>e<b>dc+<bb
+'C r8o3b8>c+8d8e8&ea+8&a+a+8
+'C b8&bf+8&f+e8dc+<b>dc+<f+ed
+'C r4@4
+'C >g2a4&a8a+8&
+'C a+2>c2
+'C <g2a4&a8a+8&
+'C a+2>c4&c8c8_a@2
+'C <a+dadgcd<g>adgdf+d<a+8&
+'C a+dadgcd<g>adgdf+cd<a
+'C a+dadgcd<g>adgdf+d<a+8&
+'C a+dadgcdgadgdf+cda
+'C o4a+dadgcd<g>adgdf+d<a+8&
+'C a+dadgcd<g>adgdf+cd<a
+'C a+dadgcd<g>adgdf+d<a+8
+'C r2r4@0o3f4@16
+'C f+2a2
+'C a+4&a+8>a+>cf<a+>d+<a+>c+c<a+a+
+'C r8<f+4&f+8a4>c4
+'C <a+4&a+8>a+>cf<a+>d+<a+>c+d+f<a+
+'C f+2a2
+'C a+4&a+8>a+>cf<a+>d+<a+>c+c<a+a+
+'C r8o3a+8>c8c+8d+8&d+a8&aa8
+'C a+8&a+f8&fd+8c+c<a+>c+c<fd+c+
+'C f+2a2
+'C a+4&a+8>a+>cf<a+>d+<a+>c+c<a+a+
+'C r8<f+4&f+8a4>c4
+'C <a+4&a+8>a+>cf<a+>d+<a+>c+d+f<a+
+'C f+2a2
+'C a+4&a+8>a+>cf<a+>d+<a+>c+c<a+a+
+'C r8o3a+8>c8c+8d+8&d+a8&aa8
+'C a+8&a+f8&fd+8c+c<a+>c+c<fd+c+
+
+'C o3a+2>c+2
+'C d4&d8>deadgdfedd
+'C r8o3a+4&a+8>c+4e4
+'C d4&d8>deadgdfgad
+'C <a+2>c+2
+'C d4&d8>deadgdfedd
+'C r8o4d8e8f8g8&g>c+8&c+c+8
+'C d8&d<a8&ag8fedfe<agf
+'C a+2>c+2
+'C d4&d8>deadgdfedd
+'C r8o3a+4&a+8>c+4e4
+'C d4&d8>deadgdfgad
+'C <a+2>c+2
+'C d4&d8>deadgdfedd
+'C r8o4d8e8f8g8&g>c+8&c+c+8
+'C d8&d<a8&ag8fedfe<agf
+
+'G u120@4 l16
+'G r2 L@4
+'G o4e2g4&g8g+8&
+'G g+2a+2
+'G e2g4&g8g+8&
+'G g+2a+4&a+8a+8_<g@2
+'G <g+>c+d+<g+g+>c+d+<g+g>c+d+<gg>c+d+8&
+'G d+<g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b
+'G <g+>c+d+<g+g+>c+d+<g+g>c+d+<gg>c+d+8&
+'G d+<g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b
+'G >g+>c+d+<g+g+>c+d+<g+g>c+d+<gg>c+d+8&
+'G d+<g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b
+'G <g+>c+d+<g+g+>c+d+<g+g>c+d+<gg>c+d+8
+'G r2@0((<b4>c+4))@19
+'G <g+4g+4g+4g+4
+'G f+4f+4f+4f+4
+'G f4f4f4f4
+'G e4e4f+4f+4
+'G g+4g+4g+4g+4
+'G f+4f+4f+4f+4
+'G f4f4f4f4
+'G e4e4f+4f+4
+'G >g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b>d+
+'G <f+a+b>d+<f+a+b>d+<f+a+b>d+<f+a+b>d+
+'G <g+a+b>f<g+a+b>f<g+a+b>f<g+a+b>f
+'G <g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b>d+
+'G g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b>d+
+'G <f+a+b>d+<f+a+b>d+<f+a+b>d+<f+a+b>d+
+'G <g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b>d+
+'G <g+a+b>d+<g+a+b>d+ga+>d+<a+a+g+g8@16
+'G o3b2>c+2
+'G d4&d8b>c+d<f+>c+<f+baf+f+
+'G r8<b4&b8>c+4f+4
+'G d4&d8b>c+d<f+>c+<f+b>c+d<f+
+'G <b2>c+2
+'G d4&d8>b>c+d<f+>c+<f+baf+f+
+'G r8<b8>c+8d8e8&ea+8&a+a+8
+'G b8&bf+8&f+e8bf+dbadc+<b
+'G dc+<bf+f+b>c+dec+<a+>eec+<a+>e
+'G d4&d8b>c+d<f+>c+<f+baf+f+
+'G r8<bf+f+b>c+dec+<a+>eec+<a+>e
+'G d4&d8b>c+d<f+>c+<f+b>c+d<f+
+'G >dc+<bf+f+b>c+dec+<a+>eec+<a+>e
+'G d4&d8b>c+d<f+>c+<f+baf+f+
+'G r8<b8>c+8d8e8&ea+8&a+a+8
+'G b8&bf+8&f+e8bf+dbadc+<b
+'G r4@4
+'G d+2f+4&f+8g8&
+'G g2a2
+'G d+2f+4&f+8g8&
+'G g2a4.a8_<f+@2
+'G <g>cd<gg>cd<gf+>cd<f+f+>cd8&
+'G d<gaa+>d<gaa+>d<gaa+>d<gaa+
+'G <g>cd<gg>cd<gf+>cd<f+f+>cd8&
+'G d<gaa+>d<gaa+>d<gaa+>d<gaa+
+'G >g>cd<gg>cd<gf+>cd<f+f+>cd8&
+'G d<gaa+>d<gaa+>d<gaa+>d<gaa+
+'G <g>cd<gg>cd<gf+>cd<f+f+>cd8
+'G r2r4@0c+4@16
+'G a+2>c2
+'G c+4&c+8a+>cc+<f>c<fa+g+ff
+'G r8<a+4&a+8>c4f4
+'G c+4&c+8a+>cc+<f>c<fa+>cc+<f
+'G <a+2>c2
+'G c+4&c+8a+>cc+<f>c<fa+g+ff
+'G r8a+8>c8c+8d+8&d+a8&aa8
+'G a+8&a+f8&fd+8a+fc+a+g+c+c<a+
+'G c+c<a+ffa+>cc+d+c<a>d+d+c<a>d+
+'G c+4&c+8a+>cc+<f>c<fa+g+ff
+'G r8<a+ffa+>cc+d+c<a>d+d+c<a>d+
+'G c+4&c+8a+>cc+<f>c<fa+>cc+<f
+'G >c+c<a+ffa+>cc+d+c<a>d+d+c<a>d+
+'G c+4&c+8a+>cc+<f>c<fa+g+ff
+'G r8<a+8>c8c+8d+8&d+a8&aa8
+'G a+8&a+f8&fd+8a+fc+a+g+c+c<a+
+'G d2e2
+'G f4&f8>def<a>e<a>dc<aa
+'G r8d4&d8e4a4
+'G f4&f8>def<a>e<a>def<a
+'G d2e2
+'G f4&f8>def<a>e<a>dc<aa
+'G r8>d8e8f8g8&g>c+8&c+c+8
+'G d8&d<a8&ag8>d<af>dc<fed
+'G <fed<aa>defgec+ggec+g
+'G f4&f8>def<a>e<a>dc<aa
+'G r8d<aa>defgec+ggec+g
+'G f4&f8>def<a>e<a>def<a
+'G >fed<aa>defgec+ggec+g
+'G f4&f8>def<a>e<a>dc<aa
+'G r8d8e8f8g8&g>c+8&c+c+8
+'G d8&d<a8&ag8>d<af>dc<fed
+
+'H u124@3 l16
+'H r2 L@3
+'H o3g+1&
+'H g+1>d+1&
+'H d+1u115d+<g+ba+>d+<g+ba+>d+<g+ba+>d+<g+ba+
+'H >d+<g+ba+>d+<g+ba+>d+<g+ba+>d+<g+ba+
+'H >d+<g+ba+>d+<g+ba+>d+<g+ba+>d+<g+ba+
+'H >d+<g+ba+>d+<g+ba+>d+<g+ba+>d+<g+ba+u124@0
+'H o3g+2a+4&a+8b8&
+'H b2>c+2
+'H <g+2a+4&a+8b8
+'H r2@4o5g+4a+4@1
+'H o3g+g+>d+d+<g+g+>d+<g+g+g+>d+d+<g+g+>d+<g+
+'H f+f+>d+d+<f+f+>d+<f+f+f+>d+d+<f+f+>d+<f+
+'H ff>c+c+<ff>c+<fff>c+c+<ff>c+<f
+'H eebbeebe>f+f+f+>c+<f+>c+<f+>c+
+'H o3g+g+>d+d+<g+g+>d+<g+g+g+>d+d+<g+g+>d+<g+
+'H f+f+>d+d+<f+f+>d+<f+f+f+>d+d+<f+f+>d+<f+
+'H ff>c+c+<ff>c+<fff>c+c+<ff>c+<f
+'H eebbeebe>f+f+>c+c+<f+f+>c+<f+
+'H <g+g+>d+d+<g+g+>d+<g+g+g+>d+d+<g+g+>d+<g+
+'H f+f+>d+d+<f+f+>d+<f+f+f+>d+d+<f+f+>d+<f+
+'H ff>c+c+<ff>c+<fff>c+c+<ff>c+<f
+'H eebbeebe>f+f+f+>c+<f+>c+<f+>c+
+'H o3g+g+>d+d+<g+g+>d+<g+g+g+>d+d+<g+g+>d+<g+
+'H f+f+>d+d+<f+f+>d+<f+f+f+>d+d+<f+f+>d+<f+
+'H ff>c+c+<ff>c+<fff>c+c+<ff>c+<f
+'H eebbeebe@0>a+2_<go3
+'H gg>dd<gg>d<ga+a+>ee<a+a+>e<a+
+'H bb>f+f+<bb>f+<bbb>f+f+<aa>e<a
+'H gg>dd<gg>d<ga+a+>ee<a+a+>e<a+
+'H bb>f+f+<bb>f+<bbb>f+f+<aa>e<a
+'H gg>dd<gg>d<ga+a+>ee<a+a+>e<a+
+'H bb>f+f+<bb>f+<bbb>f+f+<aa>e<a
+'H gg>dd<gg>d<ga+a+>ee<a+a+>e<a+
+'H bb>f+f+<bb>f+<bbb>f+f+<aa>e<a
+'H gg>dd<gg>d<ga+a+>ee<a+a+>e<a+
+'H bb>f+f+<bb>f+<bbb>f+f+<aa>e<a
+'H gg>dd<gg>d<ga+a+>ee<a+a+>e<a+
+'H bb>f+f+<bb>f+<bbb>f+f+<aa>e<a
+'H gg>dd<gg>d<ga+a+>ee<a+a+>e<a+
+'H bb>f+f+<bb>f+<bbb>f+f+<aa>e<a
+'H gg>dd<gg>d<ga+a+>ee<a+a+>e<a+
+'H bb>f+f+<bb>f+<bbb>f+f+<aa>e<a
+'H r4@3u124
+'H g1&
+'H g1>d1&
+'H d1u115d<ga+a>d<ga+a>d<ga+a>d<ga+a
+'H >d<ga+a>d<ga+a>d<ga+a>d<ga+a
+'H >d<ga+a>d<ga+a>d<ga+a>d<ga+a
+'H >d<ga+a>d<ga+a>d<ga+a>d<ga+au118@0
+'H o3g2a4&a8a+8&
+'H a+2>c2
+'H <g2a4&a8a+8
+'H r2u127r4o4f4_<a+o3u124
+'H f+f+>c+c+<f+f+>c+<f+aa>d+d+<aa>d+<a
+'H a+a+>ff<a+a+>f<a+a+a+>ff<g+g+>d+<g+
+'H f+f+>c+c+<f+f+>c+<f+aa>d+d+<aa>d+<a
+'H a+a+>ff<a+a+>f<a+a+a+>ff<g+g+>d+<g+
+'H f+f+>c+c+<f+f+>c+<f+aa>d+d+<aa>d+<a
+'H a+a+>ff<a+a+>f<a+a+a+>ff<g+g+>d+<g+
+'H f+f+>c+c+<f+f+>c+<f+aa>d+d+<aa>d+<a
+'H a+a+>ff<a+a+>f<a+a+a+>ff<g+g+>d+<g+
+'H f+f+>c+c+<f+f+>c+<f+aa>d+d+<aa>d+<a
+'H a+a+>ff<a+a+>f<a+a+a+>ff<g+g+>d+<g+
+'H f+f+>c+c+<f+f+>c+<f+aa>d+d+<aa>d+<a
+'H a+a+>ff<a+a+>f<a+a+a+>ff<g+g+>d+<g+
+'H f+f+>c+c+<f+f+>c+<f+aa>d+d+<aa>d+<a
+'H a+a+>ff<a+a+>f<a+a+a+>ff<g+g+>d+<g+
+'H f+f+>c+c+<f+f+>c+<f+aa>d+d+<aa>d+<a
+'H a+a+>ff<a+a+>f<a+a+a+>ff<g+g+>d+<g+
+'H a+a+>ff<a+a+>f<a+>c+c+ggc+c+gc+
+'H ddaaddadddaaccgc
+'H <a+a+>ff<a+a+>f<a+>c+c+ggc+c+gc+
+'H ddaaddadddaaccgc
+'H <a+a+>ff<a+a+>f<a+>c+c+ggc+c+gc+
+'H ddaaddadddaaccgc
+'H <a+a+>ff<a+a+>f<a+>c+c+ggc+c+gc+
+'H ddaaddadddaaccgc
+'H <a+a+>ff<a+a+>f<a+>c+c+ggc+c+gc+
+'H ddaaddadddaaccgc
+'H <a+a+>ff<a+a+>f<a+>c+c+ggc+c+gc+
+'H ddaaddadddaaccgc
+'H <a+a+>ff<a+a+>f<a+>c+c+ggc+c+gc+
+'H ddaaddadddaaccgc
+'H <a+a+>ff<a+a+>f<a+>c+c+ggc+c+gc+
+'H ddaaddadddaaccgc
+
+'DE E255,255,1,0,0,0
+
+'D l16v15
+'D r2 L
+'D o4g+2a+4&a+8b8&
+'D b2>c+2
+'D <g+2a+4&a+8b8&
+'D b2>c+4.c+8_a+v13
+'D bd+a+d+g+c+d+<g+>a+d+g+d+gd+<b8&
+'D bd+a+d+g+c+d+<g+>a+d+g+d+gc+d+<a+
+'D bd+a+d+g+c+d+<g+>a+d+g+d+gd+<b8&
+'D bd+a+d+g+c+d+<g+>a+d+g+d+gc+d+<a+
+'D o5bd+a+d+g+c+d+<g+>a+d+g+d+gd+<b8&
+'D bd+a+d+g+c+d+<g+>a+d+g+d+gc+d+<a+
+'D bd+a+d+g+c+d+<g+>a+d+g+d+gd+<b8v15
+'D r2o4g+4a+4
+'D <d+4d+4d+4d+4
+'D d+4d+4d+4d+4
+'D c+4c+4c+4c+4
+'D <b4b4>c+4c+4
+'D d+4d+4d+4d+4
+'D d+4d+4d+4d+4
+'D c+4c+4c+4c+4
+'D <b4b4>c+4c+4
+'D b>c+d+g+<b>c+d+g+<b>c+d+g+<b>c+d+g+
+'D <b>c+d+g+<b>c+d+g+<b>c+d+g+<b>c+d+g+
+'D <b>c+d+a+<b>c+d+a+<b>c+d+a+<b>c+d+a+
+'D <b>c+d+g+<b>c+d+g+<b>c+d+g+<b>c+d+g+
+'D <b>c+d+g+<b>c+d+g+<b>c+d+g+<b>c+d+g+
+'D <b>c+d+g+<b>c+d+g+<b>c+d+g+<b>c+d+g+
+'D <b>c+d+a+<b>c+d+a+<b>c+d+a+<b>c+d+a+
+'D <b>c+d+g+<b>c+d+g+ga+>d+<a+a+g+g8
+'D g2a+2
+'D b4&b8>b>c+f+<b>e<b>dc+<bb
+'D r8<g4&g8a+4>c+4
+'D <b4&b8>b>c+f+<b>e<b>def+<b
+'D g2a+2
+'D b4&b8>b>c+f+<b>e<b>dc+<bb
+'D r8o4b8>c+8d8e8&ea+8&a+a+8
+'D b8&bf+8&f+e8dc+<b>dc+<f+ed
+'D g2a+2
+'D b4&b8>b>c+f+<b>e<b>dc+<bb
+'D r8<g4&g8a+4>c+4
+'D <b4&b8>b>c+f+<b>e<b>def+<b
+'D g2a+2
+'D b4&b8>b>c+f+<b>e<b>dc+<bb
+'D r8o4b8>c+8d8e8&ea+8&a+a+8
+'D b8&bf+8&f+e8dc+<b>dc+<f+ed
+'D r4
+'D g2a4&a8a+8&
+'D a+2>c2
+'D <g2a4&a8a+8&
+'D a+2>c4&c8c8_av13
+'D a+dadgcd<g>adgdf+d<a+8&
+'D a+dadgcd<g>adgdf+cd<a
+'D a+dadgcd<g>adgdf+d<a+8&
+'D a+dadgcd<g>adgdf+cd<a
+'D o5a+dadgcd<g>adgdf+d<a+8&
+'D a+dadgcd<g>adgdf+cd<a
+'D a+dadgcd<g>adgdf+d<a+8v15
+'D r2r4o4f4
+'D f+2a2
+'D a+4&a+8>a+>cf<a+>d+<a+>c+c<a+a+
+'D r8<f+4&f+8a4>c4
+'D <a+4&a+8>a+>cf<a+>d+<a+>c+d+f<a+
+'D f+2a2
+'D a+4&a+8>a+>cf<a+>d+<a+>c+c<a+a+
+'D r8o4a+8>c8c+8d+8&d+a8&aa8
+'D a+8&a+f8&fd+8c+c<a+>c+c<fd+c+
+'D f+2a2
+'D a+4&a+8>a+>cf<a+>d+<a+>c+c<a+a+
+'D r8<f+4&f+8a4>c4
+'D <a+4&a+8>a+>cf<a+>d+<a+>c+d+f<a+
+'D f+2a2
+'D a+4&a+8>a+>cf<a+>d+<a+>c+c<a+a+
+'D r8o4a+8>c8c+8d+8&d+a8&aa8
+'D a+8&a+f8&fd+8c+c<a+>c+c<fd+c+
+'D a+2>c+2
+'D d4&d8>deadgdfedd
+'D r8o4a+4&a+8>c+4e4
+'D d4&d8>deadgdfgad
+'D <a+2>c+2
+'D d4&d8>deadgdfedd
+'D r8o5d8e8f8g8&g>c+8&c+c+8
+'D d8&d<a8&ag8fedfe<agf
+'D a+2>c+2
+'D d4&d8>deadgdfedd
+'D r8o4a+4&a+8>c+4e4
+'D d4&d8>deadgdfgad
+'D <a+2>c+2
+'D d4&d8>deadgdfedd
+'D r8o5d8e8f8g8&g>c+8&c+c+8
+'D d8&d<a8&ag8fedfe<agf
+
+'E l16v15
+'E r2 L
+'E o4e2g4&g8g+8&
+'E g+2a+2
+'E e2g4&g8g+8&
+'E g+2a+4&a+8a+8_>gv13
+'E g+>c+d+<g+g+>c+d+<g+g>c+d+<gg>c+d+8&
+'E d+<g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b
+'E <g+>c+d+<g+g+>c+d+<g+g>c+d+<gg>c+d+8&
+'E d+<g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b
+'E >g+>c+d+<g+g+>c+d+<g+g>c+d+<gg>c+d+8&
+'E d+<g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b
+'E <g+>c+d+<g+g+>c+d+<g+g>c+d+<gg>c+d+8v15
+'E r2<g+4a+4
+'E <g+4g+4g+4g+4
+'E f+4f+4f+4f+4
+'E f4f4f4f4
+'E e4e4f+4f+4
+'E g+4g+4g+4g+4
+'E f+4f+4f+4f+4
+'E f4f4f4f4
+'E e4e4f+4f+4
+'E >g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b>d+
+'E <f+a+b>d+<f+a+b>d+<f+a+b>d+<f+a+b>d+
+'E <g+a+b>f<g+a+b>f<g+a+b>f<g+a+b>f
+'E <g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b>d+
+'E g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b>d+
+'E <f+a+b>d+<f+a+b>d+<f+a+b>d+<f+a+b>d+
+'E <g+a+b>d+<g+a+b>d+<g+a+b>d+<g+a+b>d+
+'E <g+a+b>d+<g+a+b>d+ga+>d+<a+a+g+g8
+'E <b2>c+2
+'E d4&d8b>c+d<f+>c+<f+baf+f+
+'E r8<b4&b8>c+4f+4
+'E d4&d8b>c+d<f+>c+<f+b>c+d<f+
+'E <b2>c+2
+'E d4&d8>b>c+d<f+>c+<f+baf+f+
+'E r8o3b8>c+8d8e8&ea+8&a+a+8
+'E b8&bf+8&f+e8bf+dbadc+<b
+'E o5dc+<bf+f+b>c+dec+<a+>eec+<a+>e
+'E d4&d8b>c+d<f+>c+<f+baf+f+
+'E r8<bf+f+b>c+dec+<a+>eec+<a+>e
+'E d4&d8b>c+d<f+>c+<f+b>c+d<f+
+'E >dc+<bf+f+b>c+dec+<a+>eec+<a+>e
+'E d4&d8b>c+d<f+>c+<f+baf+f+
+'E r8<b8>c+8d8e8&ea+8&a+a+8
+'E b8&bf+8&f+e8bf+dbadc+<b
+'E r4
+'E <d+2f+4&f+8g8&
+'E g2a2
+'E d+2f+4&f+8g8&
+'E g2a4&a8a8_>f+v13
+'E g>cd<gg>cd<gf+>cd<f+f+>cd8&
+'E d<gaa+>d<gaa+>d<gaa+>d<gaa+
+'E <g>cd<gg>cd<gf+>cd<f+f+>cd8&
+'E d<gaa+>d<gaa+>d<gaa+>d<gaa+
+'E >g>cd<gg>cd<gf+>cd<f+f+>cd8&
+'E d<gaa+>d<gaa+>d<gaa+>d<gaa+
+'E <g>cd<gg>cd<gf+>cd<f+f+>cd8v15
+'E r2r4>c+4
+'E <a+2>c2
+'E c+4&c+8a+>cc+<f>c<fa+g+ff
+'E r8<a+4&a+8>c4f4
+'E c+4&c+8a+>cc+<f>c<fa+>cc+<f
+'E <a+2>c2
+'E c+4&c+8a+>cc+<f>c<fa+g+ff
+'E r8o3a+8>c8c+8d+8&d+a8&aa8
+'E a+8&a+f8&fd+8a+fc+a+g+c+c<a+
+'E o5c+c<a+ffa+>cc+d+c<a>d+d+c<a>d+
+'E c+4&c+8a+>cc+<f>c<fa+g+ff
+'E r8<a+ffa+>cc+d+c<a>d+d+c<a>d+
+'E c+4&c+8a+>cc+<f>c<fa+>cc+<f
+'E >c+c<a+ffa+>cc+d+c<a>d+d+c<a>d+
+'E c+4&c+8a+>cc+<f>c<fa+g+ff
+'E r8<a+8>c8c+8d+8&d+a8&aa8
+'E a+8&a+f8&fd+8a+fc+a+g+c+c<a+
+'E d2e2
+'E f4&f8>def<a>e<a>dc<aa
+'E r8d4&d8e4a4
+'E f4&f8>def<a>e<a>def<a
+'E d2e2
+'E f4&f8>def<a>e<a>dc<aa
+'E r8<d8e8f8g8&g>c+8&c+c+8
+'E d8&d<a8&ag8>d<af>dc<fed
+'E >fed<aa>defgec+ggec+g
+'E f4&f8>def<a>e<a>dc<aa
+'E r8d<aa>defgec+ggec+g
+'E f4&f8>def<a>e<a>def<a
+'E >fed<aa>defgec+ggec+g
+'E f4&f8>def<a>e<a>dc<aa
+'E r8d8e8f8g8&g>c+8&c+c+8
+'E d8&d<a8&ag8>d<af>dc<fed
+
+'J V60 v30bstrv25hv22c P3bsctrP2h
+'J l16
+'J R2 
+'J @sc R4..@scRR4@scR
+'J R2 @scR4..
+'J @sc R4..@scRR4@scR
+'J R2 @scR8.@s@s@s@s
+'J [@bhR@sh@h]16 L
+'J @sc R4..@scRR4@scR
+'J R2 @scR4..
+'J @sc R4..@scRR4@scR
+'J [@h]8[@bh@sh@sh@sh]2
+'J [@bh@h@h@h @sc / @h@bh@h
+'J @bh@h@h@h @sc@bh@bh@bh]4
+'J @bhR4@sc@bh@sc@bh@sc@sc
+'J [@bh@h@h@h @sc / @h@bh@h
+'J @bh@h@h@h @sc@bh@bh@bh]4
+'J @h@h@bh @bh@sh@sh@bh@sh@sh@bh@sh
+'J [@bh@h@sc@h]28[@scR8.]3@sc@sc@sc@sc
+'J [[@bh@h@sc@h]31@s@s@b@b]2
+'J R4
+'J [@bR2...]11[@h]8[@sh@sh@sh@bh]2
+'J [@bhR8.]31@sh@s@b@b
+'J [@bh@h@sc@h]28[@scR8.]3@sc@sc@sc@sc
+'J [P3c@bc@hP2c@sc@hc]31@hs@s@b@b
+'J [P3c@bc@hP2c@sc@hc]28[@scR8.]3@sc@sc@sc@sc
+'J [@bh@h@sc@h]32
+
+'"Title:幽夢 ～ Inanimate Dream
+　　　　　　                                      　　　　　　  
+Composition:ZUN
+Copy:あぶらあげ
+推奨ボリューム
+FM・・・-15～-20
+SSG・・・0
+Rhythm・・・-5以下
+ADPCM・・・0
+この曲はかっこいいので、気合いを入れて作成しました。
+最近Anex86がちょっとおかしくなってきたような・・・？"
+
+

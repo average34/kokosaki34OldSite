@@ -1,0 +1,344 @@
+﻿'/ Mp15
+
+'@ 0
+'@ 24, 8, 1, 8, 1, 13,0, 6,3
+'@ 26, 8, 3, 8, 3, 30,0, 2,7
+'@ 26, 8, 3, 8, 3, 28,0, 1,7
+'@ 26, 0, 0, 9, 0,  0,0, 2,3
+'@ 3,6
+
+'@ 1
+'@ 31,18, 4, 5, 8, 30,0, 8,0
+'@ 31,12, 4, 5, 2, 50,0, 1,3
+'@ 31,12, 4, 5, 2, 20,0, 0,3
+'@ 31,17, 4, 6, 1,  0,0, 1,0
+'@ 2,7
+
+'@ 2
+'@ 21,12, 4, 6, 2, 40,1,12,3
+'@ 21,12, 4, 8, 3,  0,1, 4,7
+'@ 21,12, 4, 6, 2, 35,1,12,7
+'@ 21,12, 4, 8, 3,  0,1, 4,7
+'@ 4,6
+
+'@ 3
+'@ 28, 0, 8, 0, 0, 35,2,12,3
+'@ 26,10, 0, 6, 2,  0,1, 4,3
+'@ 28, 0, 8, 0, 0, 33,2,12,7
+'@ 26,10, 0, 6, 2,  0,1, 4,7
+'@ 4,7
+
+'DE E255,0,0,30,3,3
+
+'A LT160u122@3 l8
+'A r1
+'A o2b2rr16>e16f+4
+'A e2a2
+'A f+1
+'A r1
+'A <b2r4>f+4
+'A e2d4c+4
+'A <b1
+'A r1
+'A b2rr16>e16f+4
+'A e2a2
+'A f+1
+'A r2>f+16e16d16e16d16c+16<b16f+16
+'A <b2r4>f+4
+'A e2d4c+4
+'A <b1u127
+
+'A r2o3b>c+de
+'A [f+<b>c+dr<b>c+d
+'A r<f+b>c+rc+de
+'A r<b>c+dr<b>c+d
+'A dc+<abrb>c+d
+'A f+<b>c+dr<b>c+d
+'A r<f+b>c+rc+de
+'A rf+b>c+r<f+b>d
+'A e<f+>d<f+>c+<f+>d<f+]2 u125
+
+'A o3e1
+'A d2c4d4
+'A e1
+'A r2<ab>cd
+'A <a4&a>e2&
+'A ed2g4dg
+'A e4&e<a>e2
+'A r1
+'A a4&aee2
+'A b4&bee2
+'A >c1
+'A r2o2ab>cd
+'A c4&c<ee2
+'A b4&bee2
+'A >c1
+
+'A r2u127ab>cd
+'A [e<ab>cr<ab>c
+'A r<eabrb>cd
+'A r<ab>cr<ab>c
+'A c<bgarab>c
+'A e<ab>cr<ab>c
+'A r<eabrb>cd
+'A reabrea>c
+'A d<e>c<ebe>c<e]2 u125
+
+'A d+<f>c+<f>c<f>c+<f
+'A >d+<f>c+<f>c<f>f<f
+'A >c+<f>c<fa+f>d+<f
+'A >c+<f>c<f>c+<f>d+<f
+'A >d+<f>c+<f>c<f>c+<f
+'A >d+<f>c+<f>c<f>f<f
+'A >c+<f>c<fa+fd+g+
+'A f<a+>cd+c+<f>cc+
+'A >d+<f>c+<f>c<f>c+<f
+'A >d+<f>c+<f>c<f>f<f
+'A >c+<f>c<fa+f>d+<f
+'A >c+<f>c<f>c+<f>d+<f
+'A >d+<f>c+<f>c<f>c+<f
+'A >d+<f>c+<f>c<f>f<f
+'A >d+<f>c+<f>c<f>c+<f
+'A >f<a+>f<a+> u127 f+<b>f+<b
+
+'A >[gcdd+rcdd+
+'A r<g>cdrdd+f
+'A rcdd+rcdd+
+'A d+d<a+>crcdd+
+'A gcdd+rcdd+
+'A r<g>cdrdd+f
+'A rg>cdr<g>cd+
+'A f<g>d+<g>d<g>d+<g]2T140
+'A gcdd+rcdd+
+'A r<g>cdrdd+f
+'A rcdd+rcdd+
+'A d+d<a+>crcdd+
+'A gcdd+rcdd+
+'A r<g>cdrdd+f
+'A rg>cdr<g>cd+
+'A f<g>d+<g>d<g>d+<g
+'A gcdd+rcdd+
+'A r<g>cdrdd+f
+'A rcdd+rcdd+
+'A d+d<a+>crcdd+
+'A gcdd+rcdd+
+'A r<g>cdrdd+f
+'A rg>cT120dr<g>cT100d+
+'A f<g>d+<g>d<g>d+T160<g
+
+'B <l16@2 L u111
+'D l16 L v13
+
+'BD r1o5
+'BD [r8drdr8rc+8.c+8.d8]3
+'BD r8drdr8rc+8.c+8.<b8>
+'BD [r8drdr8rc+8.c+8.d8]3
+'BD r8drdr8rc+8.c+8.<b8
+'BD f+>dd<f+>d<bf+>d<f+>dd<f+>d<bf+>d
+'BD [<f+>dd<f+>d<bf+>d<f+>dd<f+>d<bf+>d]2
+'BD <f+>dd<f+>d<bf+>d<f+>dd<f+>ec+<ae
+'BD f+>dd<f+>d<bf+>d<f+>dd<f+>d<bf+>d
+'BD [<f+>dd<f+>d<bf+>d<f+>dd<f+>d<bf+>d]2
+'BD <f+>dd<f+>d<bf+>d<f+>dd<f+>ec+<ae
+
+'D v15
+'BD [f+b>c+df+b>c+edc+<bf+dc+<bf+]16
+'D v14
+
+'BD r8>crcr8r<b8.b8.>c8
+'BD [r8crcr8r<b8.b8.>c8]2
+'BD r8crcr8r<b8.b8.a8
+'BD r8>crcr8r<b8.b8.>c8
+'BD [r8crcr8r<b8.b8.>c8]2
+'BD r8crcr8r<b8.b8.a8
+'BD [[e>cc<e>c<ae>c<e>cc<e>c<ae>c]3
+'BD <e>cc<e>c<ae>c<e>cc<e>d<bgd]2
+
+'D v15
+'B u114
+'BD [eab>ceab>dc<baec<bae]16
+'BD [r8>c+rc+r8rc8.c8.c+8
+'BD [r8c+rc+r8rc8.c8.c+8]2
+'BD r8c+rc+r8rc8.c8.<a+8]2
+'B u117
+
+'BD f>c+c+<f>c+<a+f>c+<f>c+c+<f>c+<a+f>c+
+'BD [<f>c+c+<f>c+<a+f>c+<f>c+c+<f>c+<a+f>c+]2
+'BD <f>c+c+<f>c+<a+f>c+<f>c+c+<f>d+c<g+d+
+'BD f>c+c+<f>c+<a+f>c+<f>c+c+<f>c+<a+f>c+
+'BD [<f>c+c+<f>c+<a+f>c+<f>c+c+<f>c+<a+f>c+]2
+'BD <f>c+c+<f>c+<a+f>c+<f+>dd<f+>d<bf+>d
+'B u114
+'BD <[g>cdd+g>cdfd+dc<gd+dc<g]32
+
+'C <@2l16 L u111
+'E l16 L v13
+
+'CE r1o4
+'CE [[r8f+rf+r8re8.e8.f+8]3
+'CE r8f+rf+r8re8.e8.d8]2
+'C u115
+'E v15
+'CE [r8>drdr8rc+8.c+8.d8
+'CE [r8drdr8rc+8.c+8.d8]2
+'CE r8drdr8rc+8.c+8.<b8]2
+'C u111
+
+'CE [bf+ab]64
+'E v14
+
+'CE [[r8erer8rd8.d8.e8]3
+'CE r8erer8rd8.d8.c8]4
+'C u114
+'E v15
+
+'CE [aega]64
+
+'C u117
+'CE [[r8frfr8rd+8.d+8.f8]3
+'CE r8frfr8rd+8.d+8.c+8]3
+'C u121
+'CE [r8frfr8rd+8.d+8.f8]3
+'CE r8frfr2r8r
+'C u114
+'CE >[c<ga+>c]128
+
+'G u117@1 l16
+'G r1
+'G L
+'G o3gg>d<ggg>d<ggb>d<gg>d<gg
+'G aa>e<aaa>e<aaa>c+e<aa>e<a
+'G bb>f+<bb>f+<bbbb>f+<bb>f+<bb
+'G bb>f+<bb>f+<bbbb>f+<baa>e<a
+'G [gg>d<ggg>d<ggb>d<gg>d<gg
+'G aa>e<aaa>e<aaa>c+e<aa>e<a
+'G bb>f+<bb>f+<bbbb>f+<bb>f+<bb
+'G bb>f+<bb>f+<bbbb>f+<baa>e<a]2
+'G gg>d<ggg>d<ggb>d<gg>d<gg
+'G aa>e<aaa>e<aaa>c+e<aa>e<a
+'G bb>f+<bb>f+<bbbb>f+<bb>f+<bb
+'G bb>f+<bb>f+<bbbb>f+<br4 @3
+
+'G o4u122l8 r[f+<b>c+dr<b>c+d
+'G r<f+b>c+rc+de
+'G r<b>c+dr<b>c+d
+'G dc+<abrb>c+d
+'G f+<b>c+dr<b>c+d
+'G r<f+b>c+rc+de
+'G rf+b>c+r<f+b>d
+'G e<f+>d<f+>c+<f+>d/<f+]2 @1l16
+
+'G o3u117ff>c<fff>c<ffa>c<ff>c<ff
+'G gg>d<ggg>d<gggb>d<gg>d<g
+'G aa>e<aa>e<aaaa>e<aa>e<aa
+'G aa>e<aa>e<aaaa>e<agg>d<g
+'G ff>c<fff>c<ffa>c<ff>c<ff
+'G gg>d<ggg>d<gggb>d<gg>d<g
+'G aa>e<aa>e<aaaa>e<aa>e<aa
+'G aa>e<aa>e<aaaa>e<agg>d<g
+'G ff>c<fff>c<ffa>c<ff>c<ff
+'G gg>d<ggg>d<gggb>d<gg>d<g
+'G aa>e<aa>e<aaaa>e<aa>e<aa
+'G aa>e<aa>e<aaaa>e<agg>d<g
+'G ff>c<fff>c<ffa>c<ff>c<ff
+'G gg>d<ggg>d<gggb>d<gg>d<g
+'G aa>e<aa>e<aaaa>e<aa>e<aa
+'G aa>e<aa>e<aaaa>e<agg>d<g @3
+
+'G o4u122l8 r[e<ab>cr<ab>c
+'G r<eabrb>cd
+'G r<ab>cr<ab>c
+'G c<bgarab>c
+'G e<ab>cr<ab>c
+'G r<eabrb>cd
+'G reabrea>c
+'G d<e>c<ebe>c/<e]2 @1l16
+'G o3u119f+f+>c+<f+f+f+>c+<f+f+a+>c+<f+f+>c+<f+f+
+'G g+g+>d+<g+g+g+>d+<g+g+g+>cd+<g+g+>d+<g+
+'G a+a+>f<a+a+>f<a+a+a+a+>f<a+a+>f<a+a+
+'G a+a+>f<a+a+>f<a+a+a+a+>f<a+g+g+>d+<g+
+'G f+f+>c+<f+f+f+>c+<f+f+a+>c+<f+f+>c+<f+f+
+'G g+g+>d+<g+g+g+>d+<g+g+g+>cd+<g+g+>d+<g+
+'G a+a+>f<a+a+>f<a+a+a+a+>f<a+a+>f<a+a+
+'G a+a+>f<a+a+>f<a+a+a+a+>f<a+g+g+>d+<g+
+'G f+f+>c+<f+f+f+>c+<f+f+a+>c+<f+f+>c+<f+f+
+'G g+g+>d+<g+g+g+>d+<g+g+g+>cd+<g+g+>d+<g+
+'G a+a+>f<a+a+>f<a+a+a+a+>f<a+a+>f<a+a+
+'G a+a+>f<a+a+>f<a+a+a+a+>f<a+g+g+>d+<g+
+'G f+f+>c+<f+f+f+>c+<f+f+a+>c+<f+f+>c+<f+f+
+'G g+g+>d+<g+g+g+>d+<g+g+g+>cd+<g+g+>d+<g+
+'G a+a+>f<a+a+>f<a+a+a+a+>f<a+a+>f<a+a+
+'G a+a+>f<a+a+>f<a+a+bb>f+<bbb>f+<b @3
+
+'G o3u122a+8>g8c8d8d+8r8c8d8
+'G d+8r8<g8>c8d8r8d8d+8
+'G f8r8c8d8d+8r8c8d8
+'G d+8d+8d8<a+8>c8r8c8d8
+'G d+8g8c8d8d+8r8c8d8
+'G d+8r8<g8>c8d8r8d8d+8
+'G f8r8g8>c8d8r8<g8>c8
+'G d+8f8<g8>d+8<g8>d8<g8>d+8
+'G <g8g8c8d8d+8r8c8d8
+'G d+8r8<g8>c8d8r8d8d+8
+'G f8r8c8d8d+8r8c8d8
+'G d+8d+8d8<a+8>c8r8c8d8
+'G d+8g8c8d8d+8r8c8d8
+'G d+8r8<g8>c8d8r8d8d+8
+'G f8r8g8>c8d8r8<g8>c8
+'G d+8f8<g8>d+8<g8>d8<g8>d+8
+
+'G <g8g8c8d8d+8r8c8d8
+'G d+8r8<g8>c8d8r8d8d+8
+'G f8r8c8d8d+8r8c8d8
+'G d+8d+8d8<a+8>c8r8c8d8
+'G d+8g8c8d8d+8r8c8d8
+'G d+8r8<g8>c8d8r8d8d+8
+'G f8r8g8>c8d8r8<g8>c8
+'G d+8f8<g8>d+8<g8>d8<g8>d+8
+'G <g8g8c8d8d+8r8c8d8
+'G d+8r8<g8>c8d8r8d8d+8
+'G f8r8c8d8d+8r8c8d8
+'G d+8d+8d8<a+8>c8r8c8d8
+'G d+8g8c8d8d+8r8c8d8
+'G d+8r8<g8>c8d8r8d8d+8
+'G f8r8g8>c8d8r8<g8>c8
+'G d+8f8<g8>d+8<g8>d8<g8>d+8
+'G r1 @1u117
+
+'H u114@0l1
+'H r
+'H L
+'H o2[gab&b2.a4]8
+'H [fga&a2.g4]8
+'H [f+g+a+&a+2.g+4]3
+'H f+g+a+&a+2b2
+'H [g+a+>c&c2.<a+4]8
+'H r
+'J V60 v27b v27s v27c v27h v27t v27r
+'J P3b P3s P3c P2h P3t P3r
+'J l16
+'J R1L
+'J [@bR8R]30 @hs@s@s@s@st@s@s@s
+'J [@hbR@csR]30 [@hsR]4
+'J [@hb@h@hs@h]32 [@cb@h@hs@h]30
+'J @cs@hs@hs@hs@t@t@t@t
+
+'J [@hbR@csR]62 [@hsR]4
+'J [@hb@h@hs@h]32 [@cb@h@hs@h]30
+'J @cs@hs@hs@hsP2t@t@tP1t@t@tP3t
+
+'J [@hbR@csR]32 [@hbR@hsR]28
+'J [@cs@hs@hs@hs]3P2t@tP1t@t@t@tP3t
+'J @c R2...
+'J @c R2...
+'J [@bR8R]6 @hs@s@s@s@st@s@s@s
+'J [@hb@h@hs@h]16 [@cb@h@hs@h]30
+'J @cs@hs@hs@hsP2t@t@tP1t@t@tP3t
+'J [R1]16
+'J R2.@sR@b@b
+
+'"タイトル　：Dreamy pilot　　　　　　　　
+作曲　　　：ZUN　　　　　　　　　　
+耳コピ　　：あぶらあげ　　　　　　　　　　　　　
+　　　　　　初のFM耳コピ。旧作の中でもマイナーな曲を選びました。
+　　　　　　・・・もしかしなくてもこの曲を知らない人が多いのでは・・？"

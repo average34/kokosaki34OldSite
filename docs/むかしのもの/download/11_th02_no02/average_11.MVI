@@ -1,4 +1,4 @@
-'@ 5
+﻿'@ 5
 '@ 21,  4, 2, 4, 2, 40,0,12,3
 '@ 24,12, 4, 6, 2,   0,0, 4,7
 '@ 21,  4, 2, 4, 2, 35,0, 6,7
@@ -550,15 +550,15 @@
 
 'J @bsc@s@sc@s@bscR@sc@s
 
-'"Title:����@�` Eastern Wind�@�@�@�@�@�@�@�@�@        
-             �@�@�@�@�@�@                                      �@�@�@�@�@�@  
+'"Title:博麗　～ Eastern Wind　　　　　　　　　        
+             　　　　　　                                      　　　　　　  
 Composition:ZUN
-Copy       :���Ԃ炠��
-�����{�����[��
-FM�E�E�E-15�`-20
-SSG�E�E�E0
-Rhythm�E�E�E-5�ȉ�
-ADPCM�E�E�E0
-�����^��MIDI���܂��̂Ă��������̂�����B
-�Ȃ̂ō����MIDI�łƈꏏ�ɂ��܂����B" 
+Copy       :あぶらあげ
+推奨ボリューム
+FM・・・-15～-20
+SSG・・・0
+Rhythm・・・-5以下
+ADPCM・・・0
+封魔録のMIDIもまた捨てがたいものがある。
+なので今回はMIDI版と一緒にしました。" 
 

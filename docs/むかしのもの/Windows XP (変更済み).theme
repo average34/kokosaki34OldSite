@@ -1,4 +1,4 @@
-; Copyright © Microsoft Corp. 1995-2001
+ï»¿; Copyright ï½© Microsoft Corp. 1995-2001
 
 [Theme]
 
@@ -70,7 +70,7 @@ SizeNWSE=
 SizeNESW=
 SizeAll=
 UpArrow=
-DefaultValue=•W€‚Ì‘g‚İ‡‚í‚¹
+DefaultValue=æ¨™æº–ã®çµ„ã¿åˆã‚ã›
 Link=
 
 [Control Panel\Desktop]
@@ -160,6 +160,6 @@ DefaultValue=%WinDir%media\Windows XP Recycle.wav
 [AppEvents\Schemes\Apps\Explorer\Navigating\.Current]
 DefaultValue=%WinDir%media\Windows XP Start.wav
 [Control Panel\Cursors.A]
-DefaultValue=•W€‚Ì‘g‚İ‡‚í‚¹
+DefaultValue=æ¨™æº–ã®çµ„ã¿åˆã‚ã›
 [Control Panel\Cursors.W]
 DefaultValue=+ahluljBufUQwf1QIMI8wWw-
